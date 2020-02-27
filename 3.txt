@@ -1,0 +1,2 @@
+file 3 created in local repo, will try to push the change. there are chances of getiing error incase if our locl repo was not up to date lets push our changes
+first if error orrcursthan pull and pus
