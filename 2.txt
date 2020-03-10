@@ -1,3 +1,0 @@
-this file gets created in local repository later we will push it to remote
-
-it was modified in remote
